@@ -2,6 +2,7 @@
 ### Projet réalisé dans le cadre du bootcamp organisé par AKADEMI, Option data science + IA
 **Préparé et présenté par :** Saint Germain Emode </br>
 **Email** germodee12@gmail.com
+
 ![MovieLens](https://github.com/Germode/Projet-Phase-4-Systeme-de-recommandation-de-films-avec-MovieLens/blob/main/Images/Moovies.png)
 
 # Aperçu
