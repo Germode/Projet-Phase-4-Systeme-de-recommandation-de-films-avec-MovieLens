@@ -1,0 +1,2 @@
+# Projet-Phase-4-Syst-me-de-recommandation-de-films-avec-MovieLens
+Ce projet développe un système de recommandation de films à partir des notes et des genres. Après analyse des données (tendances, popularité, comportements), un modèle hybride collaboratif + contenu a été construit. Objectif : proposer des suggestions personnalisées, améliorer l'expérience utilisateur et créer de la valeur business.
