@@ -1,8 +1,8 @@
 # Projet Phase 4 Système de recommandation de films avec MovieLens
-## Projet réalisé dans le cadre du bootcamp organisé par AKADEMI, Option data science + IA
+### Projet réalisé dans le cadre du bootcamp organisé par AKADEMI, Option data science + IA
 **Préparé et présenté par :** Saint Germain Emode </br>
 **Email** germodee12@gmail.com
-![]()
+![MovieLens](https://github.com/Germode/Projet-Phase-4-Systeme-de-recommandation-de-films-avec-MovieLens/blob/main/Images/Moovies.png)
 
 # Aperçu
 Le projet consiste à concevoir un système de recommandation de films capable de proposer à chaque utilisateur les films qu’il est le plus susceptible d’apprécier. Pour ce faire, nous avons utilisé l’ensemble de données MovieLens 100k, fourni par le laboratoire GroupLens de l’Université du Minnesota.
