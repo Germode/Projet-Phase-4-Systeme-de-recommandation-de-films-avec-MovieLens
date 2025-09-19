@@ -19,3 +19,19 @@ Le projet consiste à concevoir un système de recommandation de films capable d
 - Évaluer la performance du modèle à l’aide de métriques standards telles que RMSE et MAE.
 - Explorer la combinaison de méthodes collaboratives et basées sur le contenu pour améliorer la précision et la ro
 - Problématique métier : « Comment maximiser la satisfaction des utilisateurs en anticipant les films qu’ils aimeront, tout en gérant les nouveaux films et nouveaux utilisateurs sans données historiques ? »
+
+ # Exploration et Prétraitement des Données
+Les données sont complètes et cohérentes, permettant de construire un système de recommandation hybride, combinant les préférences explicites des utilisateurs (notes) 
+et les caractéristiques des films (genres et tags).
+
+### Fichiers chargés
+- movies.csv : contient les films avec movieId, title et genres (plusieurs genres possibles, séparés par |).
+- ratings.csv : contient les notes des utilisateurs (userId, movieId, rating, timestamp).
+- links.csv : relie chaque film à ses identifiants IMDb et TMDb, utile pour enrichir les données.
+- tags.csv : mots-clés attribués par les utilisateurs pour décrire les films, pouvant améliorer le filtrage basé sur le contenu.
+
+### Structure et observations
+- movies : 3 683 films, genres multiples → utile pour analyser les préférences par genre.
+- ratings : beaucoup de lignes → capture les interactions utilisateur-film, indispensable pour le filtrage collaboratif.
+- tags : informations qualitatives → possibilité d’ajouter des recommandations basées sur le contenu.
+
