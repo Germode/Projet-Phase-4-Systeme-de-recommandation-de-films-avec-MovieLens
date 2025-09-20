@@ -20,6 +20,8 @@ Le projet consiste à concevoir un système de recommandation de films capable d
 - Explorer la combinaison de méthodes collaboratives et basées sur le contenu pour améliorer la précision et la ro
 - Problématique métier : « Comment maximiser la satisfaction des utilisateurs en anticipant les films qu’ils aimeront, tout en gérant les nouveaux films et nouveaux utilisateurs sans données historiques ? »
 
+  ![MovieLens](https://github.com/Germode/Projet-Phase-4-Systeme-de-recommandation-de-films-avec-MovieLens/blob/main/Images/Examples-of-movies-from-different-genres-MovieLens-dataset.png)
+
  # Exploration et Prétraitement des Données
 Les données sont complètes et cohérentes, permettant de construire un système de recommandation hybride, combinant les préférences explicites des utilisateurs (notes) 
 et les caractéristiques des films (genres et tags).
