@@ -37,3 +37,15 @@ et les caractéristiques des films (genres et tags).
 - ratings : beaucoup de lignes → capture les interactions utilisateur-film, indispensable pour le filtrage collaboratif.
 - tags : informations qualitatives → possibilité d’ajouter des recommandations basées sur le contenu.
 
+  # Méthodologie
+**Statistiques générales :** Les notes sont globalement équilibrées avec une moyenne de 3,5 (écart-type 1,04), une médiane identique (3,5) et des valeurs allant de 0,5 à 5 .
+**Utilisateurs & Films :** Le dataset couvre 610 utilisateurs uniques et 9 724 films uniques , ce qui garantit une bonne diversité.
+**Répartition des notes :** La majorité des évaluations se situent entre 3 et 4 , confirmée par les histogrammes et countplots.
+**Comportement des utilisateurs :** La plupart des utilisateurs notent moins de 50 films , mais certains sont très actifs.
+
+**Genres :** Les plus représentés dans le catalogue sont Action, Comédie et Drame .
+**Films populaires :** Les plus notés incluent des classiques comme Braveheart , Star Wars , Pulp Fiction , Shawshank Redemption et Forrest Gump .
+**Films peu vus mais bien notés :** Plusieurs films moins connus affichent une note ≥ 4,5 malgré <20 évaluations , révélant des « perles cachées ».
+**Corrélations :** Les films très vus ont une note moyenne stable autour de 3,5 , tandis que certains films peu vus concentrent des évaluations exceptionnellement positives.
+
+
