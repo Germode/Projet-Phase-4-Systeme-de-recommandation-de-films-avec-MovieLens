@@ -43,7 +43,7 @@ et les caractéristiques des films (genres et tags).
 **Répartition des notes :** La majorité des évaluations se situent entre 3 et 4 , confirmée par les histogrammes et countplots.<br/>
 **Comportement des utilisateurs :** La plupart des utilisateurs notent moins de 50 films , mais certains sont très actifs.<br/>
 
-**Genres :** Les plus représentés dans le catalogue sont Action, Comédie et Drame .
+**Genres :** Les plus représentés dans le catalogue sont Action, Comédie et Drame .<br/>
 **Films populaires :** Les plus notés incluent des classiques comme Braveheart , Star Wars , Pulp Fiction , Shawshank Redemption et Forrest Gump .<br/>
 **Films peu vus mais bien notés :** Plusieurs films moins connus affichent une note ≥ 4,5 malgré <20 évaluations , révélant des « perles cachées ».<br/>
 **Corrélations :** Les films très vus ont une note moyenne stable autour de 3,5 , tandis que certains films peu vus concentrent des évaluations exceptionnellement positives.<br/>
